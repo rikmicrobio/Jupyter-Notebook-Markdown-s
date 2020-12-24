@@ -3,8 +3,8 @@ Codes for different markdown's styles in jupyter notebook with example
 ## Introduction: <br>
 
 ### The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, <br>
-equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical <br>
-modeling, data visualization, machine learning, and much more. <br>
+### equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical <br>
+### modeling, data visualization, machine learning, and much more. <br>
 
 ### Markdown is a lightweight and popular Markup language which is a writing standard for data scientists and analysts. It is often <br>
 ### converted into the corresponding HTML which by the Markdown processor which allows it to be easily shared between different devices <br>
