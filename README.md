@@ -7,9 +7,9 @@ equations, visualizations and narrative text. Uses include: data cleaning and tr
 modeling, data visualization, machine learning, and much more. <br>
 
 ### Markdown is a lightweight and popular Markup language which is a writing standard for data scientists and analysts. It is often <br>
-converted into the corresponding HTML which by the Markdown processor which allows it to be easily shared between different devices <br>
-and people. <br>
-Contact informaqtion: <br>
-Facebook: https://www.facebook.com/rik.ganguly.581 <br>
-gmail: rikmicrobio@gmail.com <br>
-ResearchGate: https://www.researchgate.net/profile/Rik_Ganguly
+### converted into the corresponding HTML which by the Markdown processor which allows it to be easily shared between different devices <br>
+### and people. <br>
+#### Contact informaqtion: <br>
+#### Facebook: https://www.facebook.com/rik.ganguly.581 <br>
+#### gmail: rikmicrobio@gmail.com <br>
+#### ResearchGate: https://www.researchgate.net/profile/Rik_Ganguly
