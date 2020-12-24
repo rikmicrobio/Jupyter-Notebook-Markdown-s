@@ -10,3 +10,4 @@ Codes for different markdown's styles in jupyter notebook with example
 #### Facebook: https://www.facebook.com/rik.ganguly.581 <br>
 #### gmail: rikmicrobio@gmail.com <br>
 #### ResearchGate: https://www.researchgate.net/profile/Rik_Ganguly
+##### Tutorial link: https://rikmicrobio.github.io/Jupyter-Notebook-Markdown-s/.
